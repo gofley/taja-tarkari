@@ -140,3 +140,7 @@ if (isset($_POST['add_product'])) {
 		</tbody>
 	</table>
 </center>
+
+<footer>
+	
+</footer>
